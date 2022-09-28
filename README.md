@@ -1,15 +1,9 @@
+![The image is in another castle](banner.jpg "James Webb Nebula Image")
 
-# IDP - Rodrigo and Tiago - A Git Experiment
+# Github Desktop App Hello World - README TEMPLATE IDP
+By Rodrigo Freitas and Tiago Witt
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+TODO: Write a project description... please?
 
 ## Contributing
 
@@ -19,14 +13,10 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
 TODO: Write credits
 
 ## License
 
-TODO: Write license
+MIT
