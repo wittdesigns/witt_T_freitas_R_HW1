@@ -1,10 +1,13 @@
 
-![alt text](banner.png "Logo Title Text 1")
+![This image is in another castle](banner.png "Fanshawe logo")
 
-# Github Desktop App Hello World - README TEMPLATE IDP
-By Rodrigo Freitas and Tiago Witt
+# Github FREITAS & WITT TEAM
 
-TODO: Write a project description... please?
+By Rodrigo Rocha de Freitas and Tiago Witt
+
+**About us**
+Rodrigo Rocha de Freitas: Likes design, tech and video games
+Tigo Witt: Likes pizza and 3D modelling
 
 ## Contributing
 
@@ -16,7 +19,8 @@ TODO: Write a project description... please?
 
 ## Credits
 
-TODO: Write credits
+Rodrigo Rocha de Freitas
+Tiago Witt
 
 ## License
 
