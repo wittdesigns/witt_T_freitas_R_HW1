@@ -7,7 +7,8 @@ By Rodrigo Rocha de Freitas and Tiago Witt
 
 **About us**
 Rodrigo Rocha de Freitas: Likes design, tech and video games
-Tigo Witt: Likes pizza and 3D modelling
+
+Tiago Witt: Likes pizza and 3D modelling
 
 ## Contributing
 
@@ -20,6 +21,7 @@ Tigo Witt: Likes pizza and 3D modelling
 ## Credits
 
 Rodrigo Rocha de Freitas
+
 Tiago Witt
 
 ## License
