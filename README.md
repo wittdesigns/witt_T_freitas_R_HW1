@@ -1,4 +1,5 @@
-![The image is in another castle](banner.jpg "James Webb Nebula Image")
+
+![alt text](banner.png "Logo Title Text 1")
 
 # Github Desktop App Hello World - README TEMPLATE IDP
 By Rodrigo Freitas and Tiago Witt
